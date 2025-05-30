@@ -5,6 +5,7 @@
     --cor2: #212F59;
     --cor3: #05A4BD;
     --cor4: #70C7DF;
+    --cor5: rgba(0, 0, 0, 0.1);
     --fonte1: Arial, Helvetica, sans-serif;
     --fonte2: 'Courier New', Courier, monospace;
     --fonte3: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
@@ -14,10 +15,16 @@
     margin: 0;
     padding: 0;
     font-family: var(--fonte1);
+    box-sizing: border-box;
+}
+
+html, body {
+  overflow-x: hidden;
+  width: 100vw;
 }
 
 header {
-    background-color: #e6e6e6;
+    background-color: var(--cor1);
     /* Cinza claro, remetendo ao alumínio */
     padding: 10px 20px;
     position: fixed;
@@ -28,7 +35,7 @@ header {
     /* Garante que o header ocupe toda a largura da tela */
     z-index: 100;
     /* Garante que o header fique acima de outros elementos */
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 4px 6px var(--cor5);
     /* Sombra sutil para dar profundidade */
 }
 
@@ -70,7 +77,7 @@ figure>img {
 .menu-hamburguer span {
     height: 4px;
     width: 100%;
-    background: #222;
+    background: black;
     margin: 5px 0;
     border-radius: 2px;
     display: block;
@@ -106,7 +113,7 @@ nav ul li {
 
 nav ul li a {
     text-decoration: none;
-    color: #4d4d4d;
+    color: black;
     /* Cinza escuro para contraste */
     font-weight: bold;
     padding: 5px 10px;
@@ -117,7 +124,7 @@ nav ul li a {
 
 span.submenu-toggle {
     text-decoration: none;
-    color: #4d4d4d;
+    color: black;
     /* Cinza escuro para contraste */
     font-weight: bold;
     padding: 5px 10px;
@@ -131,7 +138,7 @@ nav ul li ul {
     position: absolute;
     top: 100%;
     left: 0;
-    background-color: #f2f2f2;
+    background-color: var(--cor1);
     /* Fundo cinza claro para o submenu */
     list-style: none;
     padding: 10px;
@@ -151,15 +158,14 @@ nav ul li ul li a {
     margin: 0 30px;
     padding: 5px 30px;
     white-space: nowrap;
-    color: #4d4d4d;
-    /* Cinza escuro */
+    color: var(--cor1);
     transition: color 0.3s ease, background-color 0.3s ease;
 }
 
 nav ul li ul li a:hover {
     color: #ffffff;
     /* Branco ao passar o mouse */
-    background-color: #007BFF;
+    background-color: var(--cor3);
     /* Azul metálico */
     margin: 10px 15px;
     /* Aumenta o padding ao passar o mouse */
@@ -172,7 +178,7 @@ nav ul li ul li a:hover {
     right: -100%;
     width: 100vw;
     height: 100vh;
-    background: #fff;
+    background: var(--cor1);
     box-shadow: -2px 0 8px rgba(0, 0, 0, 0.1);
     transition: right 0.3s;
     z-index: 1000;
@@ -205,7 +211,7 @@ nav ul li ul li a:hover {
     left: 100%;
     top: 0;
     min-width: 180px;
-    background: #fff;
+    background: var(--cor1);
     box-shadow: 2px 2px 8px #0002;
     z-index: 1002;
 }
@@ -217,25 +223,24 @@ nav ul li ul li a:hover {
 
 
 #nav-menu ul ul {
-    content: ;
     position: absolute;
     top: 100%;
     /* Abre abaixo do item pai */
     left: 0;
     right: auto;
     min-width: 180px;
-    background: #fff;
-    box-shadow: 2px 2px 8px #0002;
+    background: var(--cor1);
+    box-shadow: 2px 2px 8px black;
     z-index: 1002;
     display: none;
 }
 
-#nav-menu ul li > span.submenu-toggle::after {
+#nav-menu ul li>span.submenu-toggle::after {
     display: inline-block;
     content: "▼";
     font-size: 0.8em;
-    color: #174fa3;
+    color: black;
     margin-left: 8px;
     transition: transform 0.3s;
     vertical-align: middle;
-  }
+}
