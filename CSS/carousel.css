@@ -22,7 +22,7 @@ body {
     overflow: hidden;
     min-height: 340px;
     background: #222;
-
+    margin-top: 30px;
 }
 
 .carousel-images {
