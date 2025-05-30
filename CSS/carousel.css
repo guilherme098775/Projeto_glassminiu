@@ -92,18 +92,21 @@ html, body {
 }
 
 .carousel-titulo {
-  font-size: 4vw;
+  font-size: 8vw;
   font-weight: bold;
-  margin: 0 0 10px 0;
   letter-spacing: 2px;
   line-height: 1.1;
   text-shadow: 2px 2px 8px #000;
+  margin-left: 30%;
+  margin-top: 10px;
 }
 
 .carousel-subtitulo {
   font-size: 3vw;
   margin: 0 0 0 0;
   text-shadow: 1px 1px 6px #000;
+    margin-left: 30%;
+  margin-top: 10px;
 }
 
 .carousel-btn-destaque {
@@ -124,12 +127,6 @@ html, body {
   
   transition: 0.2s ease-in-out;
   transition: background 0.3s, color 0.3s;
-}
-.carousel-btn-destaque:hover {
-  font-size: 20px;
-  border: 2px solid #000;
-
-  transition: 0.2s ease-in-out;
 }
 
   .carousel-images,
