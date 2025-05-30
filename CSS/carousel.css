@@ -70,8 +70,7 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    align-items: flex-start;
-    text-align: center;
+    align-items: center;
     padding-left: 16px;
     padding-right: 16px;
     z-index: 3;
@@ -98,21 +97,16 @@ body {
     letter-spacing: 2px;
     line-height: 1.1;
     text-shadow: 2px 2px 8px #000;
-    margin-left: 30%;
-    margin-top: 10px;
 }
 
 .carousel-subtitulo {
     font-size: 3vw;
     margin: 0 0 0 0;
     text-shadow: 1px 1px 6px #000;
-    margin-left: 30%;
-    margin-top: 10px;
 }
 
 .carousel-btn-destaque {
     margin-top: 38px;
-    margin-left: 35%;
     background: linear-gradient(to right, #2F5075, #8AC9D4);
     color: white;
     padding: 14px 28px;
