@@ -5,64 +5,15 @@
     --cor2: #212F59;
     --cor3: #05A4BD;
     --cor4: #70C7DF;
+    --cor5: rgba(0, 0, 0, 0.1);
     --fonte1: Arial, Helvetica, sans-serif;
     --fonte2: 'Courier New', Courier, monospace;
     --fonte3: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 
-/* Sobre Nós */
+/* Portifolio btn */
 
-.sobre-nos {
-    width: 100%;
-    display: block;
-    align-items: flex-start;
-    justify-content: center;
-    gap: 40px;
-    background: #fff;
-    padding: 60px 10vw;
-    margin: 40px 0;
-}
-
-.sobre-img img {
-    max-width: 100%;
-    border-radius: 8px;
-    box-shadow: 0 4px 24px rgba(0, 0, 0, 0.08);
-    margin-bottom: 50px;
-}
-
-.sobre-destaque {
-    color: #1a4fa3;
-    font-weight: bold;
-    font-size: 1rem;
-    letter-spacing: 1px;
-}
-
-.sobre-texto h2 {
-    margin: 10px 0 0 0;
-    font-size: 2rem;
-    font-weight: bold;
-}
-
-.sobre-linha {
-    width: 60px;
-    height: 4px;
-    background: #1a4fa3;
-    margin: 10px 0 20px 0;
-    border-radius: 2px;
-}
-
-.sobre-texto p {
-    position: relative;
-    color: #444;
-    font-size: 1.1rem;
-    line-height: 1.7;
-    margin-bottom: 30px;
-    text-align: justify;
-}
-
-/*Botão solicite seu orçamento*/
-
-.solicite {
+.portfolio-destaque {
     width: 100%;
     display: flex;
     justify-content: center;
@@ -71,7 +22,7 @@
     background: #fff;
 }
 
-.sobre-btn {
+.portfolio-btn {
     display: inline-block;
     padding: 20px 30px;
     background: linear-gradient(90deg, #2F5075 0%, #8AC9D4 100%);
@@ -89,3 +40,5 @@
     text-align: center;
     letter-spacing: 0.5px;
 }
+
+.portfolio-btn strong {font-weight: bold;}
