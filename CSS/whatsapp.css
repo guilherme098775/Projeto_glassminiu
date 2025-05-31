@@ -13,18 +13,18 @@
 
 /*Contato WhatsApp fixo */
 
-    .whatsapp-fixo {
-        display: block;
-        background: url(../imagens/whats-fixo2.png) no-repeat center top;
-        width: 55px;
-        height: 55px;
-        margin: 10px;
-        background-size: 51.2px;
-        position: fixed;
-        bottom: 0;
-        right: 0;
-        z-index: 99999;
-    }
+.whatsapp-fixo {
+    display: block;
+    background: url(../imagens/whats-fixo2.png) no-repeat center top;
+    width: 55px;
+    height: 55px;
+    margin: 10px;
+    background-size: 51.2px;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    z-index: 99999;
+}
 
 .circulo-pulso {
     width: 48px;
@@ -39,6 +39,11 @@
     font-weight: bold;
 }
 
-.txt-fale, .txt-click {
-        display: none;
-    }
+.txt-fale,
+.txt-click {
+    display: none;
+}
+
+.close {
+    display: none;
+}
