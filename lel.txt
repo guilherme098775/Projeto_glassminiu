@@ -1,0 +1,706 @@
+<div class="carrosel galeria-desk">
+            <pdiv class="bx-wrapper" style="max-width: 1981px;"><div class="bx-viewport" aria-live="polite" style="width: 100%; overflow: hidden; position: relative; height: 288.75px;"><ul class="slider1" style="width: 168215%; position: relative; transition-duration: 0.1s; transform: translate3d(-3631px, 0px, 0px);"><li class="slide bx-clone" onclick="abrePopup('.popu164');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/164.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li><li class="slide bx-clone" onclick="abrePopup('.popup165');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/165.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li><li class="slide bx-clone" onclick="abrePopup('.popup166');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/166.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li><li class="slide bx-clone" onclick="abrePopup('.popup167');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/167.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li><li class="slide bx-clone" onclick="abrePopup('.popup168');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/168.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup1');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/1.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup2');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/2.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup3');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/3.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup4');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/4.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup5');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="false">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/5.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup6');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="false">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/6.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup7');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="false">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/7.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup8');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/8.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup9');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/9.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup10');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/10.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup11');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/11.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup12');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/12.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup13');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/13.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup14');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/14.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup15');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/15.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup16');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/16.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup17');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/17.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup18');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/18.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup19');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/19.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup20');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/20.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup21');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/21.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup22');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/22.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup23');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/23.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup24');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/24.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup25');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/25.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup26');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/26.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup27');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/27.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup28');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/28.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup29');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/29.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup30');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/30.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup31');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/31.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup32');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/32.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup33');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/33.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup34');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/34.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup35');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/35.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup36');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/36.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup37');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/37.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup38');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/38.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup39');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/39.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup40');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/40.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup41');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/41.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup42');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/42.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup43');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/43.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup44');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/44.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup45');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/45.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup46');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/46.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup47');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/47.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup48');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/48.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup49');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/49.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup50');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/50.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup51');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/51.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup52');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/52.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup53');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/53.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup54');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/54.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup55');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/55.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup56');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/56.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup57');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/57.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup58');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/58.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup59');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/59.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup60');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/60.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup61');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/61.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup62');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/62.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup63');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/63.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup64');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/64.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup65');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/65.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup66');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/66.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup67');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/67.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup68');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/68.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup69');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/69.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup70');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/70.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup71');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/71.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup72');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/72.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup73');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/73.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup74');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/74.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup75');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/75.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup76');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/76.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup77');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/77.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup78');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/78.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup79');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/79.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup80');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/80.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup81');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/81.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup82');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/82.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup83');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/83.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup84');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/84.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup85');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/85.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup86');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/86.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup87');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/87.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup88');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/88.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup89');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/89.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup90');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/90.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup91');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/91.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup92');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/92.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup93');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/93.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup94');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/94.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup95');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/95.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup96');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/96.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup97');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/97.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup98');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/98.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup99');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/99.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup100');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/100.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup101');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/101.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup102');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/102.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup103');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/103.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup104');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/104.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup105');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/105.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup106');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/106.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup107');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/107.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup108');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/108.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup109');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/109.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup110');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/110.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup111');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/111.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup112');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/112.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup113');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/113.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup114');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/114.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup115');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/115.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup116');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/116.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup117');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/117.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup118');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/118.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup119');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/119.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup120');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/120.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup121');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/121.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup122');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/122.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup123');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/123.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup124');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/124.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup125');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/125.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup126');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/126.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup127');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/127.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup128');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/128.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup129');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/129.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup130');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/130.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup131');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/131.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup132');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/132.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup133');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/133.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup134');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/134.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup135');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/135.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup136');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/136.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup137');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/137.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup138');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/138.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup139');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/139.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup140');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/140.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup141');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/141.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup142');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/142.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup143');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/143.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup144');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/144.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup145');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/145.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup146');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/146.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup147');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/147.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup148');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/148.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup149');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/149.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup150');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/150.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup151');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/151.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup152');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/152.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup153');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/153.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup154');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/154.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup155');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/155.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup156');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/156.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup157');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/157.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup158');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/158.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup159');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/159.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup160');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/160.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup161');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/161.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup162');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/162.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup163');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/163.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup164');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/164.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup165');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/165.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup166');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/166.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup167');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/167.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                                    <li class="slide" onclick="abrePopup('.popup168');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/168.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li>
+                            <li class="slide bx-clone" onclick="abrePopup('.popup1');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/1.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li><li class="slide bx-clone" onclick="abrePopup('.popup2');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/2.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li><li class="slide bx-clone" onclick="abrePopup('.popup3');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/3.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li><li class="slide bx-clone" onclick="abrePopup('.popup4');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/4.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li><li class="slide bx-clone" onclick="abrePopup('.popup5');" style="float: left; list-style: none; position: relative; width: 385px; margin-right: 14px;" aria-hidden="true">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/galeria/5.jpg">
+                        <img src="https://www.vidroboxcuritiba.com.br/theme/templates/img/web/hover.png" class="hovergaleria">
+                    </li></ul></div><div class="bx-controls bx-has-controls-direction bx-has-pager"><div class="bx-controls-direction"><a class="bx-prev" href="">Prev</a><a class="bx-next" href="">Next</a></div><div class="bx-pager bx-default-pager"><div class="bx-pager-item"><a href="" data-slide-index="0" class="bx-pager-link">1</a></div><div class="bx-pager-item"><a href="" data-slide-index="1" class="bx-pager-link">2</a></div><div class="bx-pager-item"><a href="" data-slide-index="2" class="bx-pager-link">3</a></div><div class="bx-pager-item"><a href="" data-slide-index="3" class="bx-pager-link">4</a></div><div class="bx-pager-item"><a href="" data-slide-index="4" class="bx-pager-link active">5</a></div><div class="bx-pager-item"><a href="" data-slide-index="5" class="bx-pager-link">6</a></div><div class="bx-pager-item"><a href="" data-slide-index="6" class="bx-pager-link">7</a></div><div class="bx-pager-item"><a href="" data-slide-index="7" class="bx-pager-link">8</a></div><div class="bx-pager-item"><a href="" data-slide-index="8" class="bx-pager-link">9</a></div><div class="bx-pager-item"><a href="" data-slide-index="9" class="bx-pager-link">10</a></div><div class="bx-pager-item"><a href="" data-slide-index="10" class="bx-pager-link">11</a></div><div class="bx-pager-item"><a href="" data-slide-index="11" class="bx-pager-link">12</a></div><div class="bx-pager-item"><a href="" data-slide-index="12" class="bx-pager-link">13</a></div><div class="bx-pager-item"><a href="" data-slide-index="13" class="bx-pager-link">14</a></div><div class="bx-pager-item"><a href="" data-slide-index="14" class="bx-pager-link">15</a></div><div class="bx-pager-item"><a href="" data-slide-index="15" class="bx-pager-link">16</a></div><div class="bx-pager-item"><a href="" data-slide-index="16" class="bx-pager-link">17</a></div><div class="bx-pager-item"><a href="" data-slide-index="17" class="bx-pager-link">18</a></div><div class="bx-pager-item"><a href="" data-slide-index="18" class="bx-pager-link">19</a></div><div class="bx-pager-item"><a href="" data-slide-index="19" class="bx-pager-link">20</a></div><div class="bx-pager-item"><a href="" data-slide-index="20" class="bx-pager-link">21</a></div><div class="bx-pager-item"><a href="" data-slide-index="21" class="bx-pager-link">22</a></div><div class="bx-pager-item"><a href="" data-slide-index="22" class="bx-pager-link">23</a></div><div class="bx-pager-item"><a href="" data-slide-index="23" class="bx-pager-link">24</a></div><div class="bx-pager-item"><a href="" data-slide-index="24" class="bx-pager-link">25</a></div><div class="bx-pager-item"><a href="" data-slide-index="25" class="bx-pager-link">26</a></div><div class="bx-pager-item"><a href="" data-slide-index="26" class="bx-pager-link">27</a></div><div class="bx-pager-item"><a href="" data-slide-index="27" class="bx-pager-link">28</a></div><div class="bx-pager-item"><a href="" data-slide-index="28" class="bx-pager-link">29</a></div><div class="bx-pager-item"><a href="" data-slide-index="29" class="bx-pager-link">30</a></div><div class="bx-pager-item"><a href="" data-slide-index="30" class="bx-pager-link">31</a></div><div class="bx-pager-item"><a href="" data-slide-index="31" class="bx-pager-link">32</a></div><div class="bx-pager-item"><a href="" data-slide-index="32" class="bx-pager-link">33</a></div><div class="bx-pager-item"><a href="" data-slide-index="33" class="bx-pager-link">34</a></div><div class="bx-pager-item"><a href="" data-slide-index="34" class="bx-pager-link">35</a></div><div class="bx-pager-item"><a href="" data-slide-index="35" class="bx-pager-link">36</a></div><div class="bx-pager-item"><a href="" data-slide-index="36" class="bx-pager-link">37</a></div><div class="bx-pager-item"><a href="" data-slide-index="37" class="bx-pager-link">38</a></div><div class="bx-pager-item"><a href="" data-slide-index="38" class="bx-pager-link">39</a></div><div class="bx-pager-item"><a href="" data-slide-index="39" class="bx-pager-link">40</a></div><div class="bx-pager-item"><a href="" data-slide-index="40" class="bx-pager-link">41</a></div><div class="bx-pager-item"><a href="" data-slide-index="41" class="bx-pager-link">42</a></div><div class="bx-pager-item"><a href="" data-slide-index="42" class="bx-pager-link">43</a></div><div class="bx-pager-item"><a href="" data-slide-index="43" class="bx-pager-link">44</a></div><div class="bx-pager-item"><a href="" data-slide-index="44" class="bx-pager-link">45</a></div><div class="bx-pager-item"><a href="" data-slide-index="45" class="bx-pager-link">46</a></div><div class="bx-pager-item"><a href="" data-slide-index="46" class="bx-pager-link">47</a></div><div class="bx-pager-item"><a href="" data-slide-index="47" class="bx-pager-link">48</a></div><div class="bx-pager-item"><a href="" data-slide-index="48" class="bx-pager-link">49</a></div><div class="bx-pager-item"><a href="" data-slide-index="49" class="bx-pager-link">50</a></div><div class="bx-pager-item"><a href="" data-slide-index="50" class="bx-pager-link">51</a></div><div class="bx-pager-item"><a href="" data-slide-index="51" class="bx-pager-link">52</a></div><div class="bx-pager-item"><a href="" data-slide-index="52" class="bx-pager-link">53</a></div><div class="bx-pager-item"><a href="" data-slide-index="53" class="bx-pager-link">54</a></div><div class="bx-pager-item"><a href="" data-slide-index="54" class="bx-pager-link">55</a></div><div class="bx-pager-item"><a href="" data-slide-index="55" class="bx-pager-link">56</a></div><div class="bx-pager-item"><a href="" data-slide-index="56" class="bx-pager-link">57</a></div><div class="bx-pager-item"><a href="" data-slide-index="57" class="bx-pager-link">58</a></div><div class="bx-pager-item"><a href="" data-slide-index="58" class="bx-pager-link">59</a></div><div class="bx-pager-item"><a href="" data-slide-index="59" class="bx-pager-link">60</a></div><div class="bx-pager-item"><a href="" data-slide-index="60" class="bx-pager-link">61</a></div><div class="bx-pager-item"><a href="" data-slide-index="61" class="bx-pager-link">62</a></div><div class="bx-pager-item"><a href="" data-slide-index="62" class="bx-pager-link">63</a></div><div class="bx-pager-item"><a href="" data-slide-index="63" class="bx-pager-link">64</a></div><div class="bx-pager-item"><a href="" data-slide-index="64" class="bx-pager-link">65</a></div><div class="bx-pager-item"><a href="" data-slide-index="65" class="bx-pager-link">66</a></div><div class="bx-pager-item"><a href="" data-slide-index="66" class="bx-pager-link">67</a></div><div class="bx-pager-item"><a href="" data-slide-index="67" class="bx-pager-link">68</a></div><div class="bx-pager-item"><a href="" data-slide-index="68" class="bx-pager-link">69</a></div><div class="bx-pager-item"><a href="" data-slide-index="69" class="bx-pager-link">70</a></div><div class="bx-pager-item"><a href="" data-slide-index="70" class="bx-pager-link">71</a></div><div class="bx-pager-item"><a href="" data-slide-index="71" class="bx-pager-link">72</a></div><div class="bx-pager-item"><a href="" data-slide-index="72" class="bx-pager-link">73</a></div><div class="bx-pager-item"><a href="" data-slide-index="73" class="bx-pager-link">74</a></div><div class="bx-pager-item"><a href="" data-slide-index="74" class="bx-pager-link">75</a></div><div class="bx-pager-item"><a href="" data-slide-index="75" class="bx-pager-link">76</a></div><div class="bx-pager-item"><a href="" data-slide-index="76" class="bx-pager-link">77</a></div><div class="bx-pager-item"><a href="" data-slide-index="77" class="bx-pager-link">78</a></div><div class="bx-pager-item"><a href="" data-slide-index="78" class="bx-pager-link">79</a></div><div class="bx-pager-item"><a href="" data-slide-index="79" class="bx-pager-link">80</a></div><div class="bx-pager-item"><a href="" data-slide-index="80" class="bx-pager-link">81</a></div><div class="bx-pager-item"><a href="" data-slide-index="81" class="bx-pager-link">82</a></div><div class="bx-pager-item"><a href="" data-slide-index="82" class="bx-pager-link">83</a></div><div class="bx-pager-item"><a href="" data-slide-index="83" class="bx-pager-link">84</a></div><div class="bx-pager-item"><a href="" data-slide-index="84" class="bx-pager-link">85</a></div><div class="bx-pager-item"><a href="" data-slide-index="85" class="bx-pager-link">86</a></div><div class="bx-pager-item"><a href="" data-slide-index="86" class="bx-pager-link">87</a></div><div class="bx-pager-item"><a href="" data-slide-index="87" class="bx-pager-link">88</a></div><div class="bx-pager-item"><a href="" data-slide-index="88" class="bx-pager-link">89</a></div><div class="bx-pager-item"><a href="" data-slide-index="89" class="bx-pager-link">90</a></div><div class="bx-pager-item"><a href="" data-slide-index="90" class="bx-pager-link">91</a></div><div class="bx-pager-item"><a href="" data-slide-index="91" class="bx-pager-link">92</a></div><div class="bx-pager-item"><a href="" data-slide-index="92" class="bx-pager-link">93</a></div><div class="bx-pager-item"><a href="" data-slide-index="93" class="bx-pager-link">94</a></div><div class="bx-pager-item"><a href="" data-slide-index="94" class="bx-pager-link">95</a></div><div class="bx-pager-item"><a href="" data-slide-index="95" class="bx-pager-link">96</a></div><div class="bx-pager-item"><a href="" data-slide-index="96" class="bx-pager-link">97</a></div><div class="bx-pager-item"><a href="" data-slide-index="97" class="bx-pager-link">98</a></div><div class="bx-pager-item"><a href="" data-slide-index="98" class="bx-pager-link">99</a></div><div class="bx-pager-item"><a href="" data-slide-index="99" class="bx-pager-link">100</a></div><div class="bx-pager-item"><a href="" data-slide-index="100" class="bx-pager-link">101</a></div><div class="bx-pager-item"><a href="" data-slide-index="101" class="bx-pager-link">102</a></div><div class="bx-pager-item"><a href="" data-slide-index="102" class="bx-pager-link">103</a></div><div class="bx-pager-item"><a href="" data-slide-index="103" class="bx-pager-link">104</a></div><div class="bx-pager-item"><a href="" data-slide-index="104" class="bx-pager-link">105</a></div><div class="bx-pager-item"><a href="" data-slide-index="105" class="bx-pager-link">106</a></div><div class="bx-pager-item"><a href="" data-slide-index="106" class="bx-pager-link">107</a></div><div class="bx-pager-item"><a href="" data-slide-index="107" class="bx-pager-link">108</a></div><div class="bx-pager-item"><a href="" data-slide-index="108" class="bx-pager-link">109</a></div><div class="bx-pager-item"><a href="" data-slide-index="109" class="bx-pager-link">110</a></div><div class="bx-pager-item"><a href="" data-slide-index="110" class="bx-pager-link">111</a></div><div class="bx-pager-item"><a href="" data-slide-index="111" class="bx-pager-link">112</a></div><div class="bx-pager-item"><a href="" data-slide-index="112" class="bx-pager-link">113</a></div><div class="bx-pager-item"><a href="" data-slide-index="113" class="bx-pager-link">114</a></div><div class="bx-pager-item"><a href="" data-slide-index="114" class="bx-pager-link">115</a></div><div class="bx-pager-item"><a href="" data-slide-index="115" class="bx-pager-link">116</a></div><div class="bx-pager-item"><a href="" data-slide-index="116" class="bx-pager-link">117</a></div><div class="bx-pager-item"><a href="" data-slide-index="117" class="bx-pager-link">118</a></div><div class="bx-pager-item"><a href="" data-slide-index="118" class="bx-pager-link">119</a></div><div class="bx-pager-item"><a href="" data-slide-index="119" class="bx-pager-link">120</a></div><div class="bx-pager-item"><a href="" data-slide-index="120" class="bx-pager-link">121</a></div><div class="bx-pager-item"><a href="" data-slide-index="121" class="bx-pager-link">122</a></div><div class="bx-pager-item"><a href="" data-slide-index="122" class="bx-pager-link">123</a></div><div class="bx-pager-item"><a href="" data-slide-index="123" class="bx-pager-link">124</a></div><div class="bx-pager-item"><a href="" data-slide-index="124" class="bx-pager-link">125</a></div><div class="bx-pager-item"><a href="" data-slide-index="125" class="bx-pager-link">126</a></div><div class="bx-pager-item"><a href="" data-slide-index="126" class="bx-pager-link">127</a></div><div class="bx-pager-item"><a href="" data-slide-index="127" class="bx-pager-link">128</a></div><div class="bx-pager-item"><a href="" data-slide-index="128" class="bx-pager-link">129</a></div><div class="bx-pager-item"><a href="" data-slide-index="129" class="bx-pager-link">130</a></div><div class="bx-pager-item"><a href="" data-slide-index="130" class="bx-pager-link">131</a></div><div class="bx-pager-item"><a href="" data-slide-index="131" class="bx-pager-link">132</a></div><div class="bx-pager-item"><a href="" data-slide-index="132" class="bx-pager-link">133</a></div><div class="bx-pager-item"><a href="" data-slide-index="133" class="bx-pager-link">134</a></div><div class="bx-pager-item"><a href="" data-slide-index="134" class="bx-pager-link">135</a></div><div class="bx-pager-item"><a href="" data-slide-index="135" class="bx-pager-link">136</a></div><div class="bx-pager-item"><a href="" data-slide-index="136" class="bx-pager-link">137</a></div><div class="bx-pager-item"><a href="" data-slide-index="137" class="bx-pager-link">138</a></div><div class="bx-pager-item"><a href="" data-slide-index="138" class="bx-pager-link">139</a></div><div class="bx-pager-item"><a href="" data-slide-index="139" class="bx-pager-link">140</a></div><div class="bx-pager-item"><a href="" data-slide-index="140" class="bx-pager-link">141</a></div><div class="bx-pager-item"><a href="" data-slide-index="141" class="bx-pager-link">142</a></div><div class="bx-pager-item"><a href="" data-slide-index="142" class="bx-pager-link">143</a></div><div class="bx-pager-item"><a href="" data-slide-index="143" class="bx-pager-link">144</a></div><div class="bx-pager-item"><a href="" data-slide-index="144" class="bx-pager-link">145</a></div><div class="bx-pager-item"><a href="" data-slide-index="145" class="bx-pager-link">146</a></div><div class="bx-pager-item"><a href="" data-slide-index="146" class="bx-pager-link">147</a></div><div class="bx-pager-item"><a href="" data-slide-index="147" class="bx-pager-link">148</a></div><div class="bx-pager-item"><a href="" data-slide-index="148" class="bx-pager-link">149</a></div><div class="bx-pager-item"><a href="" data-slide-index="149" class="bx-pager-link">150</a></div><div class="bx-pager-item"><a href="" data-slide-index="150" class="bx-pager-link">151</a></div><div class="bx-pager-item"><a href="" data-slide-index="151" class="bx-pager-link">152</a></div><div class="bx-pager-item"><a href="" data-slide-index="152" class="bx-pager-link">153</a></div><div class="bx-pager-item"><a href="" data-slide-index="153" class="bx-pager-link">154</a></div><div class="bx-pager-item"><a href="" data-slide-index="154" class="bx-pager-link">155</a></div><div class="bx-pager-item"><a href="" data-slide-index="155" class="bx-pager-link">156</a></div><div class="bx-pager-item"><a href="" data-slide-index="156" class="bx-pager-link">157</a></div><div class="bx-pager-item"><a href="" data-slide-index="157" class="bx-pager-link">158</a></div><div class="bx-pager-item"><a href="" data-slide-index="158" class="bx-pager-link">159</a></div><div class="bx-pager-item"><a href="" data-slide-index="159" class="bx-pager-link">160</a></div><div class="bx-pager-item"><a href="" data-slide-index="160" class="bx-pager-link">161</a></div><div class="bx-pager-item"><a href="" data-slide-index="161" class="bx-pager-link">162</a></div><div class="bx-pager-item"><a href="" data-slide-index="162" class="bx-pager-link">163</a></div><div class="bx-pager-item"><a href="" data-slide-index="163" class="bx-pager-link">164</a></div><div class="bx-pager-item"><a href="" data-slide-index="164" class="bx-pager-link">165</a></div><div class="bx-pager-item"><a href="" data-slide-index="165" class="bx-pager-link">166</a></div><div class="bx-pager-item"><a href="" data-slide-index="166" class="bx-pager-link">167</a></div><div class="bx-pager-item"><a href="" data-slide-index="167" class="bx-pager-link">168</a></div></div></div></div>
+        </div>

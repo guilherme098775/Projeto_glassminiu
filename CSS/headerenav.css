@@ -14,7 +14,6 @@
 * {
     margin: 0;
     padding: 0;
-    font-family: var(--fonte1);
     box-sizing: border-box;
 }
 
@@ -120,6 +119,23 @@ nav ul li a {
     transition: color 0.3s ease, background-color 0.3s ease;
     border-radius: 5px;
     /* Bordas arredondadas para um visual moderno */
+}
+
+nav > ul > li > a:hover {
+    color: #ffffff;
+    /* Branco ao passar o mouse */
+    background-color: var(--cor3);
+    /* Azul metálico */
+    /* Aumenta o padding ao passar o mouse */
+    transition: color 0.3s ease, background-color 0.3s ease;
+}
+
+span {
+    display: inline-block;
+    position: relative;
+    cursor: pointer;
+    /* Cursor de ponteiro para indicar interatividade */
+
 }
 
 span.submenu-toggle {
@@ -236,11 +252,121 @@ nav ul li ul li a:hover {
 }
 
 #nav-menu ul li>span.submenu-toggle::after {
-    display: inline-block;
+    display: inline;
     content: "▼";
     font-size: 0.8em;
     color: black;
     margin-left: 8px;
     transition: transform 0.3s;
     vertical-align: middle;
+}
+
+/* ...existing code... */
+
+/* Responsividade para telas menores */
+@media (max-width: 900px) {
+    nav ul {
+        flex-direction: column;
+        gap: 0;
+        margin-right: 0;
+        align-items: flex-start;
+    }
+
+    nav ul li {
+        width: 100%;
+    }
+
+    nav ul li a, 
+    span.submenu-toggle {
+        width: 100%;
+        display: block;
+        padding: 15px 20px;
+        border-radius: 0;
+    }
+
+    nav ul li ul {
+        position: static;
+        box-shadow: none;
+        padding: 0;
+        background: none;
+    }
+
+    nav ul li ul li a {
+        padding: 10px 40px;
+
+    }
+
+    nav ul li ul li a:hover {
+        background: var(--cor3);
+        color: #fff;
+    }
+
+    .menu-hamburguer {
+        display: flex;
+    }
+
+    #nav-menu {
+        width: 80vw;
+        right: -80vw;
+        padding-top: 80px;
+    }
+
+    #nav-menu.ativo {
+        right: 0;
+    }
+}
+
+/* Acessibilidade: foco visível */
+nav ul li a:focus,
+span.submenu-toggle:focus {
+    outline: 2px solid var(--cor3);
+    background: var(--cor4);
+}
+
+/* Efeito visual para item ativo */
+nav ul li a.ativo,
+span.submenu-toggle.ativo {
+    background: var(--cor3);
+    color: #fff;
+    transition: background 0.3s, color 0.3s;
+}
+
+/* Suaviza a transição do menu */
+#nav-menu,
+.menu-hamburguer span {
+    transition: all 0.3s ease;
+}
+
+/* Ajuste para evitar sobreposição do header */
+body {
+    padding-top: 80px;
+}
+
+/* Esconde o menu hamburguer em telas grandes */
+@media (min-width: 768px) {
+    .menu-hamburguer {
+        display: none;
+    }
+    #nav-menu {
+        position: static;
+        width: auto;
+        height: auto;
+        background: none;
+        box-shadow: none;
+        padding-top: 0;
+        right: 0;
+    }
+    #nav-menu ul {
+        flex-direction: row;
+        gap: 20px;
+    }
+
+    span:hover {
+     color: #ffffff;
+    /* Branco ao passar o mouse */
+    background-color: var(--cor3);
+    /* Azul metálico */
+    /* Aumenta o padding ao passar o mouse */
+    transition: color 0.3s ease, background-color 0.3s ease;
+}
 }
